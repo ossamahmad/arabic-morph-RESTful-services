@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exceptionalwords>
+		<exceptionalword unvoweledform="الله" voweledform="الله" prefix="#" stem="الله" type="اسم الجلالة" suffix="#"/>
+		<exceptionalword unvoweledform="لله" voweledform="لله" prefix="ل" stem="الله" type="اسم الجلالة" suffix="#"/>
+		<exceptionalword unvoweledform="والله" voweledform="والله" prefix="و" stem="الله" type="اسم الجلالة" suffix="#"/>
+		<exceptionalword unvoweledform="تالله" voweledform="تالله" prefix="ت" stem="الله" type="اسم الجلالة" suffix="#"/>
+		<exceptionalword unvoweledform="ولله" voweledform="ولله" prefix="و" stem="الله" type="اسم الجلالة" suffix="#"/>
+		<exceptionalword unvoweledform="فلله" voweledform="فلله" prefix="ف" stem="الله" type="اسم الجلالة" suffix="#"/>
+		<exceptionalword unvoweledform="بالله" voweledform="بالله" prefix="ب" stem="الله" type="اسم الجلالة" suffix="#"/>
+		<exceptionalword unvoweledform="فبالله" voweledform="فبالله" prefix="فب" stem="الله" type="اسم الجلالة" suffix="#"/>
+		<exceptionalword unvoweledform="وبالله" voweledform="وبالله" prefix="وب" stem="الله" type="اسم الجلالة" suffix="#"/>		
+		
+</exceptionalwords>
