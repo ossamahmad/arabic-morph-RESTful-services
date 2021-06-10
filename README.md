@@ -1,6 +1,7 @@
 # arabic-morph-RESTful-services
 
 There are three REST services in this project:
+
 1- /analyse : which returns the analysis results list of a tokenized arabic text.
     These results come from several levels of treatment. firsrt of all of the segementation, then the segments are compared to the list of exceptional words, proper nouns, tool words and finally the possible nominal and verbal solutions are considered.
     The result is returned as a json file
