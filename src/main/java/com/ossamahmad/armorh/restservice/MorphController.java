@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.ossamahmad.armorh.restservice;
 
 import AlKhalil.api.Morpho;
 import org.springframework.web.bind.annotation.GetMapping;
